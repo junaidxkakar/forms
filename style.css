@@ -1,0 +1,21 @@
+div{
+    width: 400px;
+    margin: auto;
+    padding: 30px;
+}
+button{
+    width: 200px;
+    background-color: rgb(178, 183, 213);
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    border-radius: 20px;
+    width: 300px;
+    background-color: black;
+    margin: auto;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+}
+body{
+    background-image: url("./jonatan-pie-3l3RwQdHRHg-unsplash.jpg");
+}
